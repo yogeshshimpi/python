@@ -8,4 +8,4 @@ print('''
 
 
 
-#using trpile single cot you can print mulitple line in single print function
+#using trpile single quoted you can print mulitple line in single print function
