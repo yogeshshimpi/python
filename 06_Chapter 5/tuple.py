@@ -21,4 +21,3 @@ print(t1.count(2))
 
 #The is immutable so we can change the value of it's
 
-
